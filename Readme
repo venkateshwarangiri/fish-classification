@@ -1,0 +1,29 @@
+data/
+├── train/
+│   ├── fish sea_food trout/
+│   ├── fish sea_food shrimp/
+│   └── ...
+├── val/
+│   ├── fish sea_food trout/
+│   ├── fish sea_food shrimp/
+│   └── ...
+├── test/
+│   ├── fish sea_food trout/
+│   ├── fish sea_food shrimp/
+│   └── ...
+  
+
+
+this is data folder structure make sure same
+
+create one virtual env
+
+install requirements
+
+ this is not needed  python src/train_model.py        /// for first time u need run this , or change any model 
+
+
+streamlit run app/app.py
+
+
+
